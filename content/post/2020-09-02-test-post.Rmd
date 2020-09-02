@@ -1,5 +1,5 @@
 ---
-title: test post
+title: Plotly Demo
 author: ~
 date: '2020-09-02'
 slug: test-post
@@ -7,8 +7,12 @@ categories: []
 tags: []
 ---
 
-```{r}
+```{r include = F}
 library(plotly)
+```
+
+
+```{r echo = F}
 plot_ly(z = ~volcano, type = "surface")
 ```
 
