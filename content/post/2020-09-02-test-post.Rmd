@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-```{r include = F}
+```{r}
 library(plotly)
 plot_ly(z = ~volcano, type = "surface")
 ```
