@@ -27,7 +27,7 @@ What is yours? </description>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/09/02/test-post/</guid>
-      <description></description>
+      <description>library(plotly)## Warning: package &amp;#39;plotly&amp;#39; was built under R version 4.0.2## Loading required package: ggplot2## ## Attaching package: &amp;#39;plotly&amp;#39;## The following object is masked from &amp;#39;package:ggplot2&amp;#39;:## ## last_plot## The following object is masked from &amp;#39;package:stats&amp;#39;:## ## filter## The following object is masked from &amp;#39;package:graphics&amp;#39;:## ## layoutplot_ly(z = ~volcano, type = &amp;quot;surface&amp;quot;){&#34;x&#34;:{&#34;visdat&#34;:{&#34;642825433681&#34;:[&#34;function () &#34;</description>
     </item>
     
     <item>
