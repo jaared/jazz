@@ -1,5 +1,0 @@
-library(googlesheets4)
-gs4_auth()
-df <- read_sheet("https://docs.google.com/spreadsheets/d/1pOK6bDkVUvsYqv4E5x9QT_fHy-kxbI18tSiWLjfyO8Y/edit?usp=sharing")
-saveRDS(df, 'data/jazz.rds')
-gs4_deauth()
