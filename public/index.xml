@@ -22,6 +22,15 @@ What is yours? </description>
     </item>
     
     <item>
+      <title>test post</title>
+      <link>/2020/09/02/test-post/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/02/test-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Plain Markdown Post</title>
       <link>/2016/12/30/a-plain-markdown-post/</link>
       <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>

@@ -1,8 +1,13 @@
 ---
-title: "Untitled"
+title: "Plotly Demo"
 author: "jaared"
 date: "9/2/2020"
 output: html_document
+knit: (function(input_file, encoding) {
+  out_dir <- '../rmd_output';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'test.html'))})
 ---
 
 ```{r setup, include=FALSE}

@@ -1,0 +1,14 @@
+---
+title: test post
+author: ~
+date: '2020-09-02'
+slug: test-post
+categories: []
+tags: []
+---
+
+```{r include = F}
+library(plotly)
+plot_ly(z = ~volcano, type = "surface")
+```
+
