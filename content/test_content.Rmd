@@ -5,7 +5,7 @@ date: "9/2/2020"
 output: html_document
 ---
 
-[download]('../../New Text Document.txt')
+[download]('../content/New Text Document.txt')
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
